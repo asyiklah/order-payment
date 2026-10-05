@@ -1,2 +1,2 @@
 # order-payment
-Distributed event-driver order fulfillment platform
+Distributed event-driven order fulfillment platform
